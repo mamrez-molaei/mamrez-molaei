@@ -3,7 +3,6 @@
 I'm Mohammadreza, a Computer Engineering student passionate about cybersecurity, operating system security, and network security.
 
 🔐 I'm building my skills through hands-on cybersecurity projects and labs.  
-☁️ Currently learning cloud security and infrastructure security.
 
 ## 📫 How to reach me
 
